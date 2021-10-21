@@ -1,9 +1,3 @@
-// const libro = {
-//     nombre: "el principito", 
-//     paginas:20 , 
-//     editorial: "Anagrama"
-// }
-
 const hora = 50;
 class Libro {
     constructor(nombre, paginas, autor) {
